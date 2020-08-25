@@ -1,0 +1,235 @@
+.table1, .table2 {
+    width: 1192px;
+    height: 736px;
+    margin: 0 auto;
+    border: 20px solid #3A4965;
+    font-family: Arimo, sans-serif;
+    font-style: normal;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    border-collapse: collapse;
+
+}
+
+td {
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    border: 1px solid #beb6b6;
+}
+
+.background-white {
+    background-color: #FAFAFA;
+}
+
+.background-white div {
+    margin-bottom: 5px;
+}
+
+#background-white {
+    background-color: #FAFAFA;;
+}
+
+.background-DDDDDD {
+    background: #DDDDDD;
+}
+
+.background-EEEEEE {
+    background: #EEEEEE;
+}
+
+.background-F4F4F4 {
+    background: #F4F4F4;
+}
+
+.table1 tr:nth-child(2n+1) {
+    background: #F2F2F2;
+}
+
+.table1 tr:nth-child(2n) {
+    background: #E3E3E3;
+}
+
+.th-standart {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    background: #89C331;
+}
+
+.th-ultimate {
+    background: #F04A56;
+    font-size: 30px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.th-premium {
+    background: #20807C;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.choose-your {
+    font-size: 18px;
+    line-height: 28px;
+    color: #484848;
+}
+
+.pricing-plan {
+    font-size: 30px;
+    line-height: 28px;
+    color: #484848;
+}
+
+.contact-us {
+    border-radius: 5px;
+    padding: 15px 40px;
+    background-color: #484848;
+    color: #FFFFFF;
+    font-weight: bold;
+
+}
+
+.buy-now {
+    border-radius: 5px;
+    padding: 15px 60px;
+    color:  #FFFFFF;
+    font-weight: bold;
+}
+
+#buy-now-green {
+    background: #89C331;
+}
+
+#buy-now-red {
+    background: #F04A56;
+}
+
+#buy-now-blue {
+    background: #20807C;
+}
+
+.price {
+    font-size: 60px;
+    line-height: 28px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+
+.price-cents {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    padding-bottom: 20px;
+    position: absolute;
+    bottom: 25px;
+}
+
+.per-month {
+    position: relative;
+    bottom: 8px;
+}
+
+button {
+    font-family: Arimo, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    border: none;
+}
+
+i {
+    font-size: 20px;
+    color: #484848;
+    padding-right: 5px;
+}
+
+
+
+
+.table2 {
+    width: 1197px;
+    height: 660px;
+    margin-top: 50px;
+}
+
+.table2 tr th{
+    width: 160px;
+    height: 115px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #484848;
+    border-bottom: 15px solid #3A4965;
+}
+
+
+table tr th:first-child {
+    width: 201px;
+}
+
+.choose-your-table2 {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.pricing-plan-table2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.standart-table-2, .ultimate-table-2, .premium-table-2 {
+    width: 198px;
+    height: 164px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.padding15px {
+    padding: 15px ;
+}
+
+.price-table-2 {
+    font-size: 36px;
+    line-height: 28px;
+    position: relative;
+    line-height: 36px;
+    top: 8px;
+}
+
+.price-cents-table-2 {
+    font-size: 18px;
+    line-height: 28px;
+    position: absolute;
+    bottom: 15px;
+}
+
+.per-month-table-2 {
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 30px;
+}
+
+.buy-now-table-2 {
+    width: 147px;
+    height: 44px;
+    background: #414141;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-top: 10px;
+
+}
+
+
+
+
+
